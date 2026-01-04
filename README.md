@@ -18,6 +18,21 @@ Tuya Cloud + Home Assistant CLI + Clawdis skill for device discovery, temperatur
 - **Status:** Beta
 - **Features:** Tuya Cloud auth wizard, device discovery, temp scaling, switch control
 
+### [chill-putio](./chill-putio)
+Put.io automation skill.
+
+### [dashlane](./dashlane)
+Dashlane automation skill.
+
+### [eufy](./eufy)
+Eufy automation skill.
+
+### [gh](./gh)
+GitHub automation skill.
+
+### [tailscale](./tailscale)
+Tailscale automation skill.
+
 ---
 
 *Built by Razor 🥷*
