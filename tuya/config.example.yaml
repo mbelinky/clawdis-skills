@@ -1,0 +1,11 @@
+backend: ha
+homeAssistant:
+  url: "http://homeassistant.local:8123"
+  token: "YOUR_LONG_LIVED_ACCESS_TOKEN"
+cloud:
+  accessId: ""
+  accessKey: ""
+  endpoint: "https://openapi.tuyaeu.com"  # region-specific
+  region: "eu"
+  schema: ""  # app schema for user lookup (optional)
+  userId: ""  # optional; falls back to token uid when available
